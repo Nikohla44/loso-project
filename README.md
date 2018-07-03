@@ -1,2 +1,2 @@
 # Loso : Projet Arinfo !
-https://louisagr.github.io/Loso/
+https://github.com/Nikohla44/loso-project
